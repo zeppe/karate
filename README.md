@@ -13,11 +13,7 @@ Karate notes
     <th colspan="4">Shitei</th>
   </tr>
   <tr>
-    <td>
-
-[Heian Shodan](kata/01-heian-shodan.md)
-
-    </td>
+    <td><a href="kata/01-heian-shodan.html">Heian Shodan</a></td>
     <td>21</td><td>9</td><td>17</td>
   </tr>
   <tr>
@@ -29,7 +25,7 @@ Karate notes
     <td>20</td><td>10</td><td>20</td>
   </tr>
   <tr>
-    <td><a href="kata/03-heian-sandan.html">Heian Sandan</a></td>
-    <td>20</td><td>10</td><td>20</td>
+    <td><a href="kata/03-heian-yondan.html">Heian Yondan</a></td>
+    <td>27</td><td>13</td><td>25</td>
   </tr>
 </table>
