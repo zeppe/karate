@@ -5,7 +5,7 @@ To build and preview this site, use
 ```bash
 # install jekyll and themes, only once
 sudo apt install ruby zlib1g-dev jekyll
-sudo bundle install
+bundle install
 
 # this runs the server, run from root dir
 bundle exec jekyll serve
