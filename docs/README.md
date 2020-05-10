@@ -39,5 +39,11 @@ Karate notes
     <td><a href="kata/06-tekki-shodan.html">Tekki Shodan</a></td>
     <td>29</td><td>15</td><td>29</td>
   </tr>
-
+  <tr>
+    <th colspan="4">Funakoshi</th>
+  </tr>
+  <tr>
+    <td><a href="kata/14-gankaku.html">Gankaku</a></td>
+    <td>29</td><td>15</td><td>29</td>
+  </tr>
 </table>
