@@ -1,4 +1,4 @@
 # Karate content
 
 
-Published at [zeppe.github.com/karate]().
+Published at [zeppe.github.io/karate]().
