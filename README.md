@@ -39,5 +39,16 @@ Karate notes
     <td><a href="kata/06-tekki-shodan.html">Tekki Shodan</a></td>
     <td>29</td><td>15</td><td>29</td>
   </tr>
-
+  <tr>
+    <td><a href="kata/07-tekki-nidan.html">Tekki Nidan</a></td>
+    <td>24</td><td>16</td><td>24</td>
+  </tr>
+  <tr>
+    <td><a href="kata/08-tekki-sandan.html">Tekki Sandan</a></td>
+    <td>36</td><td>16</td><td>36</td>
+  </tr>
 </table>
+
+## References
+
+The information on Kata is based on [http://shotokankaratecsl.com]() which contains precious information on Shotokan kata.

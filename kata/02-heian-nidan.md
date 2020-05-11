@@ -1,6 +1,6 @@
 # Heian Nidan - 平安二段
 
-_Heian Nidan_, the second _Heian_ kata, has *26* movements and the _embusen_ is almost I-shaped. Half of the kata is performed in _kokutsu-dachi_ (back stance). _Shuto-uke_ (knife-hand block) appears seven times, making it a very important technique for this kata. H2 is the first kata that teaches kicks and double-hand movements. Also, _gyaku hanmi_, reversing the torso's position, is first learned in H2. Pay special attention to the _keage_/_uraken_ (side snap kick/back-fist) combination, as it appears in several other kata.
+_Heian Nidan_, the second _Heian_ kata, has **26** movements and the _embusen_ is almost I-shaped. Half of the kata is performed in _kokutsu-dachi_ (back stance). _Shuto-uke_ (knife-hand block) appears seven times, making it a very important technique for this kata. H2 is the first kata that teaches kicks and double-hand movements. Also, _gyaku hanmi_, reversing the torso's position, is first learned in H2. Pay special attention to the _keage_/_uraken_ (side snap kick/back-fist) combination, as it appears in several other kata.
 
 
 | Kyodo | Technique | Translation | Stance | Target | Notes |

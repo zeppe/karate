@@ -1,6 +1,6 @@
 # Heian Sandan - 平安三段
 
-The shortest kata in the _Heian_ series, _Heian Sandan_ has **20** counts, with almost half of the movements performed in _kiba-dachi_ (horse stance). _Tai sabaki_, or "body shifting", is of utmost importance in H3. The student must learn how to rotate the entire body to gain momentum, as well as how to slide the feet, _yori-ashi_. _Empi_ (elbow) techniques are also first learned in this kata. Timing skills become prominent as H3 is the first kata that contains a slow movement (#11).
+The shortest kata in the _Heian_ series, _Heian Sandan_ has **20** counts, with almost half of the movements performed in _kiba-dachi_ (horse stance). _Tai sabaki_, or "body shifting", is of utmost importance in H3. The student must learn how to rotate the entire body to gain momentum, as well as how to slide the feet, _yori-ashi_. _Empi_ (elbow) techniques are also first learned in this kata. Timing skills become prominent as H3 is the first kata that contains a slow movement (\#11).
 
 
 | Kyodo | Technique | Translation | Stance | Target | Notes |
