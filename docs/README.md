@@ -48,6 +48,13 @@ Karate notes
     <td>36</td><td>16</td><td>36</td>
   </tr>
   <tr>
+    <th colspan="4">Sentei</th>
+  </tr>
+  <tr>
+    <td><a href="kata/09-bassai-dai.html">Bassai Dai</a></td>
+    <td>42</td><td>19</td><td>42</td>
+  </tr>
+  <tr>
     <th colspan="4">Funakoshi</th>
   </tr>
   <tr>
@@ -55,6 +62,7 @@ Karate notes
     <td>29</td><td>15</td><td>29</td>
   </tr>
 </table>
+
 
 ## References
 
