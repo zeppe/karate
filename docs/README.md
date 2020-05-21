@@ -1,5 +1,9 @@
 Karate notes
 
+## Principles
+
+* [Dojo Kun](dojo-kun.md)
+
 ## Kata
 
 <table>
@@ -53,6 +57,10 @@ Karate notes
   <tr>
     <td><a href="kata/09-bassai-dai.html">Bassai Dai</a></td>
     <td>42</td><td>19</td><td>42</td>
+  </tr>
+  <tr>
+    <td><a href="kata/10-kanku-dai.html">Kanku Dai</a></td>
+    <td>65</td><td>15</td><td>65</td>
   </tr>
   <tr>
     <th colspan="4">Funakoshi</th>
