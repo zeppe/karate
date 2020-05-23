@@ -12,7 +12,7 @@ The fourth _Heian_, with **27** counts, is the longest of _Heian_ katas, and has
 | 5     | ryoken-koshi-kamae | both fists hip posture | ashi-dachi | -- | |
 | 6     | uraken-yoko-mawashi-uchi/<br>yoko-geri-keage | sideways back-fist strike/<br>side snap kick | ashi-dachi | jodan/<br>chudan | |
 | 7     | mae empi-uchi | front elbow strike | zenkutsu-dachi | -- | |
-| 8     | ryoken-koshi-kamae | both fists hip posture | ashi-dachi | -- | |tsugi-ashi |
+| 8     | ryoken-koshi-kamae | both fists hip posture | ashi-dachi | -- | tsugi-ashi |
 | 9     | uraken-yoko-mawashi-uchi/<br>yoko geri-keage | sideways back-fist strike/<br>side snap kick | ashi-dachi | jodan/<br>chudan | |
 | 10    | mae-empi-uchi | front elbow strike | zenkutsu-dachi | -- | |
 | 11    | shuto-gedan-barai &<br>jodan-uke/<br>shuto-soto-mawashi-uchi | low knife-hand sweep &<br>face block/<br>outside sword-hand strike | hizakutsu | gedan<br>jodan/<br>jodan | |

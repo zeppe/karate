@@ -7,10 +7,10 @@ _Heian Nidan_, the second _Heian_ kata, has **26** movements and the _embusen_ i
 | ----- | --------- | ----------- | ------ | ------ | ----- |
 | 1     | haiwan-uke/<br>zenwan-hitae-kamae | back of forearm block/<br>forearm forehead posture | kokutsu-dachi | jodan/<br>jodan | |
 | 2     | soto-nagashi uke/<br>kentsui-soto-mawashi-uchi | outside flowing block/<br>outside hammer-fist strike | kokutsu-dachi | jodan/<br>jodan | target opponent's elbow |
-| 3     | sokumen-zuki (uke-zuki) | punch to side (block-punch) | kokutsu-dachi | chudan |
+| 3     | sokumen-zuki (uke-zuki) | punch to side (block-punch) | kokutsu-dachi | chudan | |
 | 4     | haiwan-uke/<br>zenwan-hitae-kamae | back of forearm block/<br>forearm forehead posture | kokutsu-dachi | jodan/<br>jodan | |
 | 5     | soto-nagashi-uke/<br>kentsui-soto-mawashi-uchi | outside flowing block/<br>outside hammer-fist strike | kokutsu-dachi | jodan/<br>jodan | target opponent's elbow |
-| 6     | sokumen-zuki (uke-zuki) | punch to side (block-punch) | | kokutsu-dachi | chudan | |
+| 6     | sokumen-zuki (uke-zuki) | punch to side (block-punch) | kokutsu-dachi | chudan | |
 | 7     | ryoken-koshi-kamae &<br> uraken-yoko-mawashi-uchi/<br>yoko-geri-keage | both fists hip posture &<br>sideways back-fist strike/<br>side snap kick | ashi-dachi | --/<br>jodan/<br>chudan | |
 | 8     | shuto-uke | knife-hand block | kokutsu-dachi | chudan | |
 | 9     | shuto-uke | knife-hand block | kokutsu-dachi | chudan | |

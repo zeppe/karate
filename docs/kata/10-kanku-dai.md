@@ -25,7 +25,7 @@ _Kanku Dai_ is basically an amalgamation of the _Heian_ and _Tekki_ kata. When p
 | 16    | shuto-gedan-barai &<br>jodan-uke/<br>shuto-soto-mawashi-uchi | low knife-hand sweep &<br>face block/<br>outside sword-hand strike | ashi-zenkutsu | gedan<br>jodan/jodan | gyaku-hanmi |
 | 17    | mae-geri | front kick | ashi-dachi | jodan | |
 | 18    | uchi-uke/<br>gedan-uke (manji-uke) | inside block/<br>down block (swirling block) | kokutsu-dachi | jodan/<br>gedan | |
-| 19    | | nagashi-uke/<br>shuto-uchikomi | flowing block/<br>knife-hand thrusting strike | ashi-zenkutsu | jodan/<br>gedan | |
+| 19    | nagashi-uke/<br>shuto-uchikomi | flowing block/<br>knife-hand thrusting strike | ashi-zenkutsu | jodan/<br>gedan | |
 | 20    | gedan-barai | down block | renoji-dachi | gedan | slow speed |
 | 21    | shuto-gedan-barai&<br>jodan-uke/<br>shuto-soto-mawashi-uchi | low knife-hand sweep &<br>face block/<br>outside sword-hand strike | ashi-zenkutsu | gedan<br>jodan/jodan | gyaku-hanmi |
 | 22    | mae-geri | front kick | ashi-dachi | jodan | |
@@ -48,7 +48,7 @@ _Kanku Dai_ is basically an amalgamation of the _Heian_ and _Tekki_ kata. When p
 | 39    | uchi-uke | inside block | zenkutsu-dachi | chudan | |
 | 40    | gyaku-zuki | reverse punch | zenkutsu-dachi | chudan | |
 | 41    | tsuki | punch | zenkutsu-dachi | chudan | |
-| 42    | soete-ura-zuki/<br>hiza-zuchi | added hand inverted punch/<br>knee strike | ashi-dachi | jodan | -- | |
+| 42    | soete-ura-zuki/<br>hiza-zuchi | added hand inverted punch/<br>knee strike | ashi-dachi | jodan/<br>-- | |
 | 43    | ude-tate-fuse | arms vertically prone | ashi-zenkutsu | -- | |
 | 44    | shuto-uke | knife-hand block | kokutsu-dachi | gedan | |
 | 45    | shuto-uke | knife-hand block | kokutsu-dachi | chudan | |
@@ -59,7 +59,7 @@ _Kanku Dai_ is basically an amalgamation of the _Heian_ and _Tekki_ kata. When p
 | 50    | tsuki | punch | zenkutsu-dachi | chudan | |
 | 51    | ryoken-koshi-kamae | both fists hip posture | ashi-dachi | -- | |
 | 52    | uraken-yoko-mawashi-uchi/<br>yoko-geri-keage | sideways back-fist strike/<br>side snap kick | ashi-dachi | jodan/<br>chudan | |
-| 53    | shuto-uke | knife-hand block | kokutsu-dachi | chudan |
+| 53    | shuto-uke | knife-hand block | kokutsu-dachi | chudan | |
 | 54    | osae-uke/<br>shihon-nukite (tate-nukite) | pressing block/<br>four finger spear-hand (vertical spear-hand) | zenkutsu-dachi | chudan/<br>chudan | |
 | 55    | uraken-tate-mawashi-uchi | vertical back-fist strike | kiba-dachi | jodan | |
 | 56    | kentsui-uchi-mawashi-uchi | inside hammer-fist strike | kiba-dachi | chudan | yori-ashi |
@@ -71,4 +71,4 @@ _Kanku Dai_ is basically an amalgamation of the _Heian_ and _Tekki_ kata. When p
 | 62    | kaisho-kosa-uke<br>(ryosho-juji-uke) | both palms crossing block<br>(X-block) | hachiji-dachi | jodan | |
 | 63    | ashi-jiku-mawari | foot pivot rotation | zenkutsu-dachi | -- | natural speed |
 | 64    | ryoken-mune-mae-kosa | both fists crossed in front of chest | zenkutsu-dachi | -- | slow speed |
-| 65*   | nidan-geri &<br>uraken-tate-mawashi-uchi | two level kick &<br>vertical back-fist strike | -- | zenkutsu-dachi | chudan/jodan<br>jodan |
+| 65*   | nidan-geri &<br>uraken-tate-mawashi-uchi | two level kick &<br>vertical back-fist strike | --<br>zenkutsu-dachi | chudan/jodan<br>jodan | |

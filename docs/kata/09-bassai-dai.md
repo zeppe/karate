@@ -25,7 +25,7 @@ _Bassai Dai_ is usually the first _Sentei_ kata to be learned and is the most po
 | 16    | shuto-uke | knife-hand block | kokutsu-dachi | chudan | |
 | 17    | shuto-uke | knife-hand block | kokutsu-dachi | chudan | |
 | 18    | ryosho-tsukami-uke<br>(bassai-uke) | both palms grasping block | ashi-zenkutsu | chudan | slow speed<br>gyaku-hanmi |
-| 19*   | sokuto-kekomi/<br>ryosho-tsukamiyose | sword-foot thrust kick/<br>both palms grasping-pulling | ashi-dachi | gedan | -- | |
+| 19*   | sokuto-kekomi/<br>ryosho-tsukamiyose | sword-foot thrust kick/<br>both palms grasping-pulling | ashi-dachi | gedan/<br>-- | |
 | 20    | shuto-uke | knife-hand block | kokutsu-dachi | chudan | |
 | 21    | shuto-uke | knife-hand block | kokutsu-dachi | chudan | |
 | 22    | morote-age-uke | double-hand rising block | heisoku-dachi | jodan | natural speed |
@@ -33,8 +33,8 @@ _Bassai Dai_ is usually the first _Sentei_ kata to be learned and is the most po
 | 24    | tsuki | punch | zenkutsu-dachi | chudan | yori-ashi |
 | 25    | soto-nagashi-uke/<br>shuto-uchikomi &<br>gedan-uke/<br>uchi-uke (manji-uke) | outside flowing block/<br>sword-hand thrusting strike &<br>down block/<br>inside block (swirling block) | ashi-zenkutsu/<br>ashi-zenkutsu &<br> heisoku-dachi/<br>heisoku-dachi | jodan/gedan & <br>gedan/jodan | manji-uke slow speed |
 | 26    | gedan-barai/<br>fumikomi | down block/<br>stomp kick | kiba-dachi | gedan | |
-| 27    | kake-uke | hooking block | kiba-dachi | chudan | slow speed | haishu variation |
-| 28    | mikazuki-geri &<br>mae-empi-uchi | crescent kick &<br>front elbow strike | ashi-dachi<br>kiba-dachi | chudan | -- | |
+| 27    | kake-uke | hooking block | kiba-dachi | chudan | slow speed<br>haishu variation |
+| 28    | mikazuki-geri &<br>mae-empi-uchi | crescent kick &<br>front elbow strike | ashi-dachi<br>kiba-dachi | chudan/<br>-- | |
 | 29    | gedan-uke/<br>zenwan-mune-kamae | down block/<br>forearm chest posture | kiba-dachi | gedan<br>chudan | |
 | 30    | gedan-uke/<br>zenwan-mune-kamae | down block/<br>forearm chest posture | kiba-dachi | gedan<br>chudan | |
 | 31    | gedan-uke/<br>zenwan-mune-kamae | down block/<br>forearm chest posture | kiba-dachi | gedan<br>chudan | |

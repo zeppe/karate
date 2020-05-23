@@ -14,9 +14,9 @@ _Heian Godan_ is the last kata in the _Heian_ series and has **23** counts. A co
 | 7     | morote-uke | double-hand block | kokutsu-dachi | chudan | |
 | 8     | ryoken-kosa-uke<br>(ryoken-juji-uke) | both fists cross block<br>(X-block) | zenkutsu-dachi | gedan | |
 | 9     | kaisho-kosa-uke<br>(ryosho-juji-uke) | both palms cross block<br>(X-block) | zenkutsu-dachi | jodan | |
-| 10    | ryosho-juji-osae-uke | both palms pressing X-block | zenkutsu-dachi | chudan
+| 10    | ryosho-juji-osae-uke | both palms pressing X-block | zenkutsu-dachi | chudan | |
 | 11    | tsuki (uke-zuki) | punch (block-punch) | zenkutsu-dachi | chudan | |
-| 12*   | oi-zuki  | lunge punch | zenkutsu-dachi | chudan |
+| 12*   | oi-zuki  | lunge punch | zenkutsu-dachi | chudan | |
 | 13    | gedan-barai | down block | kiba-dachi | gedan | fumikomi variation |
 | 14    | kake-uke | hooking block | kiba-dachi | chudan | slow speed |
 | 15    | mikazuki-geri | crescent kick | ashi-dachi | chudan | |
@@ -27,4 +27,4 @@ _Heian Godan_ is the last kata in the _Heian_ series and has **23** counts. A co
 | 20    | morote-uke | double-hand block | zenkutsu-dachi | chudan | |
 | 21    | soto-nagashi-uke/<br>shuto-uchikomi &<br>uchi-uke/<br>gedan-uke (manji-uke) | flowing block/<br>sword-hand cutting strike &<br>inside block/<br>down block  ( swirling block) | ashi-zenkutsu<br>kokutsu-dachi | jodan/gedan<br>jodan/gedan | |
 | 22    | jotai-sonomama<br>(manji-kamae) | upper body as is<br>(swirling posture) | heisoku-dachi | -- | slow speed |
-| 23     | soto-nagashi-uke/<br>shuto-uchikomi &<br>uchi-uke/<br>gedan-uke (manji-uke) | flowing block/<br>sword-hand cutting strike &<br>inside block/<br>down block  ( swirling block) | ashi-zenkutsu<br>kokutsu-dachi | jodan/gedan<br>jodan/gedan |
+| 23     | soto-nagashi-uke/<br>shuto-uchikomi &<br>uchi-uke/<br>gedan-uke (manji-uke) | flowing block/<br>sword-hand cutting strike &<br>inside block/<br>down block  ( swirling block) | ashi-zenkutsu<br>kokutsu-dachi | jodan/gedan<br>jodan/gedan | |

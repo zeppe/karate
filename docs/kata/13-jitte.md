@@ -26,7 +26,7 @@ Many of the applications for _Jitte_ focus on defences against stick (_bo_) atta
 | 17    | bo-toriage &<br>bo-oshimodoshi | stick grab (rising) &<br>stick repel | ashi-dachi<br>zenkutsu-dachi | -- |	bo-dori slow speed<br>yori-ashi |
 | 18    | bo-toriage &<br>bo-oshimodoshi | stick grab (rising) &<br>stick repel | ashi-dachi<br>zenkutsu-dachi | -- | bo-dori slow speed<br>yori-ashi |
 | 19    | uchi-uke / gedan-uke<br>(manji-uke) | inside block / down block<br>(swirling block) | kokutsu-dachi | jodan/<br>chudan | |
-| 20    | uchi-uke / gedan-uke<br>(manji-uke) | inside block / down block<br>(swirling block) | kokutsu-dachi | jodan/<br>chudan |
+| 20    | uchi-uke / gedan-uke<br>(manji-uke) | inside block / down block<br>(swirling block) | kokutsu-dachi | jodan/<br>chudan | |
 | 21    | age-uke | rising block | zenkutsu-dachi | jodan | |
 | 22    | age-uke | rising block | zenkutsu-dachi | jodan | |
 | 23    | age-uke | rising block | zenkutsu-dachi | jodan | |

@@ -25,12 +25,12 @@ _Tekki Shodan_ is the first kata in the _Tekki_ series and is also the first kat
 | 18    | kao-muki/<br>ryoken-koshi-kamae | face turning/<br>both fists hip posture | kiba-dachi | -- | |
 | 19    | gedan-barai | down block | kiba-dachi | gedan | |
 | 20    | kagi-zuki | hook punch | kiba-dachi | chudan | |
-| 21    | jotai-sonomama | upper body as is | -- | -- | | kosa-ashi<br>slow speed |
+| 21    | jotai-sonomama | upper body as is | -- | -- | kosa-ashi<br>slow speed |
 | 22    | fumikomi/<br>uchi-uke | stomp kick/<br>inside block | kiba-dachi | gedan<br>chudan | |
 | 23    | haiwan-uchi-nagashi-uke<br>/gedan-uke &<br>tate-uraken-uchi/<br>zenwan-suihei-mune-kamae | back-arm inside flowing block/<br>down block &<br>vertical backfist strike/<br>horizontal forearm posture | kiba-dachi | jodan/gedan<br>jodan/chudan | ura-zuki variation |
 | 24    | kao-muki | face turning | kiba-dachi | -- | |
 | 25    | ashi-namigaeshi &<br>zenwan-sokumen-uke | returning wave-leg &<br>forearm block to side | kiba-dachi | gedan<br>chudan | |
 | 26    | kao-muki | face turning | kiba-dachi | -- | |
-| 27    | ashi-namigaeshi &<br>zenwan-sokumen-uke | returning wave-leg &<br>forearm block to side | kiba-dachi | gedan<br>chudan |
+| 27    | ashi-namigaeshi &<br>zenwan-sokumen-uke | returning wave-leg &<br>forearm block to side | kiba-dachi | gedan<br>chudan | |
 | 28    | kao-muki/<br>ryoken-koshi-kamae | face turning/<br>both fists hip posture | kiba-dachi | -- | |
 | 29*   | sokumen-zuki/<br>kagi-zuki (morote-zuki) | punch to side/<br>hook punch (double punch) | kiba-dachi | chudan<br>chudan | |

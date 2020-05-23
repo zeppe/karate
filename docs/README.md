@@ -73,6 +73,13 @@ Karate notes
     <td><a href="kata/14-gankaku.html">Gankaku</a></td>
     <td>29</td><td>15</td><td>29</td>
   </tr>
+  <tr>
+    <th colspan="4">Advanced</th>
+  </tr>
+  <tr>
+    <td><a href="kata/16-kanku-sho.html">Kanku Sho</a></td>
+    <td>48</td><td>6</td><td>48</td>
+  </tr>
 </table>
 
 

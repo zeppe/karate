@@ -26,7 +26,8 @@ The last _Tekki_ kata, _Tekki Sandan_, has **36** movements. It is a very quick 
 | 19    | fumikomi | foot stomp | kiba-dachi | gedan | |
 | 20    | zenwan-uchiotoshi<br>(zenwan-barai) | forearm falling strike<br>(forearm sweep) | kiba-dachi | chudan | |
 | 21    | haiwan-uchi-nagashi-uke | back-arm inside flowing block | kiba-dachi | jodan | |
-| 22    | tate-uraken-uchi | vertical back-fist strike | kiba-dachi | jodan<br>chudan | 23    | koshi-kamae | (hands on) hip posture | kiba-dachi | -- | |
+| 22    | tate-uraken-uchi | vertical back-fist strike | kiba-dachi | jodan<br>chudan | |
+| 23    | koshi-kamae | (hands on) hip posture | kiba-dachi | -- | |
 | 24    | tsuki (choku-zuki) | punch (straight punch) | kiba-dachi | chudan | |
 | 25    | zenwan-hineri | forearm twist | kiba-dachi | chudan | |
 | 26    | jotai-sonomama | upper body as is | -- | -- | kosa-ashi<br>slow speed |

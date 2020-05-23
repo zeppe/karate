@@ -41,11 +41,11 @@ _Gankaku_ has several challenging forward spinning turns, unlike most kata which
 | 32    | sokumen-zuki<br>(gyaku-zuki) | reverse punch<br>(side punch) | kiba-dachi | chudan | |
 | 33    | uchi-uke-kamae/<br>gedan-kamae (manji-kamae) | inside block/<br>down block posture (swirling posture) | ashi-dachi<br>(tsuru-ashi-dachi) | jodan/<br>gedan | slow speed |
 | 34    | ryoken-koshi-kamae | both fists hip posture | ashi-dachi<br>(tsuru-ashi-dachi) | -- | slow speed |
-| 35    | uraken-yoko-mawashi-uchi/<br>yoko-geri-keage | sideways backfist strike/<br>side snap | |
+| 35    | uraken-yoko-mawashi-uchi/<br>yoko-geri-keage | sideways backfist strike/<br>side snap kick | ashi-dachi | jodan/<br>chudan | |
 | 36    | sokumen-zuki<br>(gyaku-zuki) | reverse punch<br>(side punch) | kiba-dachi | chudan | |
 | 37    | shuto-uke | knife-hand block | ashi-zenkutsu | jodan | shuto-uchi variation |
 | 38    | tate-empi-uchi | vertical elbow strike | ashi-zenkutsu | jodan | |
 | 39    | ryote-koshi-kamae | both hands hip posture | ashi-zenkutsu | -- | |
 | 40    | ryoken-koshi-kamae | both fists hip posture | ashi-dachi<br>(tsuru-ashi-dachi) | -- | natural speed |
-| 41    | uraken-yoko-mawashi-uchi/<br>yoko-geri-keage | sideways backfist strike/<br>side snap kick | ashi-dachi | jodan/<br>chudan |
+| 41    | uraken-yoko-mawashi-uchi/<br>yoko-geri-keage | sideways backfist strike/<br>side snap kick | ashi-dachi | jodan/<br>chudan | |
 | 42*   | oi-zuki | lunge punch | zenkutsu-dachi | chudan | |
