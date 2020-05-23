@@ -66,6 +66,10 @@ Karate notes
     <th colspan="4">Funakoshi</th>
   </tr>
   <tr>
+    <td><a href="kata/13-jitte.html">Jitte</a></td>
+    <td>24</td><td>13</td><td>24</td>
+  </tr>
+  <tr>
     <td><a href="kata/14-gankaku.html">Gankaku</a></td>
     <td>29</td><td>15</td><td>29</td>
   </tr>
