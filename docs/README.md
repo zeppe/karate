@@ -63,6 +63,10 @@ Karate notes
     <td>65</td><td>15</td><td>65</td>
   </tr>
   <tr>
+    <td><a href="kata/11-jion.html">Jion</a></td>
+    <td>47</td><td>17</td><td>47</td>
+  </tr>
+  <tr>
     <th colspan="4">Funakoshi</th>
   </tr>
   <tr>
