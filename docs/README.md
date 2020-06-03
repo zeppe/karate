@@ -78,6 +78,10 @@ Karate notes
     <td>29</td><td>15</td><td>29</td>
   </tr>
   <tr>
+    <td><a href="kata/15-hangetsu.html">Hangetsu</a></td>
+    <td>41</td><td>11</td><td>40</td>
+  </tr>
+  <tr>
     <th colspan="4">Advanced</th>
   </tr>
   <tr>
