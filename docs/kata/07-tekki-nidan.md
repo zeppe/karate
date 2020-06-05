@@ -15,7 +15,7 @@ _Tekki Nidan_ is the shortest _Tekki_ kata, consisting of  **24** movements. Sim
 | 8     | zenwan-sokumen-gedan-uke<br>(oshi-uke) | low forearm block to side<br>(pushing block) | kiba-dachi | gedan | |
 | 9     | kao muki / koshi-kamae | face turning / hip posture | kiba-dachi | -- | |
 | 10    | soete-uchi-uke | added-hand inside block |  kiba-dachi | chudan | |
-| 11    | koshi-kamae &<br>fumikomi/<br>mae-empi-uchi | hip posture &<br>foot stomp / front elbow strike | ashi-dachi<br>kiba-dachi | --<br>chudan | |
+| 11    | koshi-kamae &<br>fumikomi/<br>mae-enpi-uchi | hip posture &<br>foot stomp / front elbow strike | ashi-dachi<br>kiba-dachi | --<br>chudan | |
 | 12    | tsukami-uke<br>(koko-uke) | grasping block<br>(tiger-mouth) | kiba-dachi | chudan | slow speed |
 | 13    | kagi-zuki | hook punch | kiba-dachi | chudan | |
 | 14    | jotai-sonomama | upper body as is | -- | -- | kosa-ashi<br>slow speed |
@@ -23,7 +23,7 @@ _Tekki Nidan_ is the shortest _Tekki_ kata, consisting of  **24** movements. Sim
 | 16*   | haiwan-uchi-nagashi-uke/<br>gedan-uke &<br>tate-uraken-uchi/<br>zenwan-suihei-mune-kamae | back-arm inside flowing block/<br>down block &<br>vertical backfist strike/<br>horizontal forearm posture | kiba-dachi | jodan/gedan<br>jodan/chudan | ura-zuki variation |
 | 17    | kao muki / koshi-kamae | face turning / hip posture | kiba-dachi | -- | |
 | 18    | soete-uchi-uke | added-hand inside block | kiba-dachi | chudan | |
-| 19    | koshi-kamae &<br>fumikomi / mae-empi-uchi | hip posture &<br>foot stomp / front elbow strike | ashi-dachi<br>kiba-dachi | --<br>chudan | |
+| 19    | koshi-kamae &<br>fumikomi / mae-enpi-uchi | hip posture &<br>foot stomp / front elbow strike | ashi-dachi<br>kiba-dachi | --<br>chudan | |
 | 20    | tsukami-uke<br>(koko-uke) | grasping block<br>(tiger-mouth) | kiba-dachi | chudan | slow speed |
 | 21    | kagi zuki | hook punch | kiba-dachi | chudan | |
 | 22    | jotai-sonomama | upper body as is | -- | -- | kosa-ashi<br>slow speed |

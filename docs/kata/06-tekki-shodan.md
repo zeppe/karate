@@ -7,7 +7,7 @@ _Tekki Shodan_ is the first kata in the _Tekki_ series and is also the first kat
 | ----- | --------- | ----------- | ------ | ------ | ----- |
 | 1     | kao-muki  | face turning | --    | --     | kosa-ashi<br>natural speed |
 | 2     | fumikomi<br>/kake-uke | stomp kick/<br>hooking block | kiba-dachi | chudan | haishu variation |
-| 3     | sokumen-mae-empi-uchi | front elbow strike to side | kiba-dachi | -- | |
+| 3     | sokumen-mae-enpi-uchi | front elbow strike to side | kiba-dachi | -- | |
 | 4     | kao-muki<br>/ryoken-koshi-kamae | face turning<br>/both fists hip posture | kiba-dachi | -- | |
 | 5     | gedan-barai | down block | kiba-dachi | gedan | |
 | 6     | kagi-zuki | hook punch | kiba-dachi | chudan  | |
@@ -21,7 +21,7 @@ _Tekki Shodan_ is the first kata in the _Tekki_ series and is also the first kat
 | 14    | kao-muki/<br>ryoken-koshi-kamae | face turning/<br>both fists hip posture | kiba-dachi | -- | |
 | 15*   | sokumen-zuki/<br>kagi-zuki (morote-zuki) | punch to side/<br>hook punch (double punch) | kiba-dachi | chudan<br>chudan | |
 | 16    | kake-uke | hooking block | kiba-dachi | chudan | slow speed<br>haishu variation |
-| 17    | sokumen-mae-empi-uchi | front elbow strike to side | kiba-dachi | -- | |
+| 17    | sokumen-mae-enpi-uchi | front elbow strike to side | kiba-dachi | -- | |
 | 18    | kao-muki/<br>ryoken-koshi-kamae | face turning/<br>both fists hip posture | kiba-dachi | -- | |
 | 19    | gedan-barai | down block | kiba-dachi | gedan | |
 | 20    | kagi-zuki | hook punch | kiba-dachi | chudan | |

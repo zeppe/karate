@@ -20,7 +20,7 @@ _Heian Godan_ is the last kata in the _Heian_ series and has **23** counts. A co
 | 13    | gedan-barai | down block | kiba-dachi | gedan | fumikomi variation |
 | 14    | kake-uke | hooking block | kiba-dachi | chudan | slow speed |
 | 15    | mikazuki-geri | crescent kick | ashi-dachi | chudan | |
-| 16    | mae empi-uchi | front elbow strike | kiba-dachi | chudan | |
+| 16    | mae-enpi-uchi | front elbow strike | kiba-dachi | chudan | |
 | 17    | morote-uke | double-hand block | kosa-dachi | chudan | |
 | 18    | uho-tsukiage | rising punch to right rear | renoji-dachi | jodan | |
 | 19*   | ryoken-kosa-uke<br>(ryoken-juji-uke) | both fists cross block<br>(X-block) | kosa-dachi | gedan | tobikomi<br>(tobi) |

@@ -2,7 +2,7 @@
 
 The traditional Shotokan _dojo kun_ is credited to _Gichin Funakoshi_, and is the following.
 
-###### 一、人格 完成に 努める こと
+##### 一、人格 完成に 努める こと
 
 > hitotsu, jinkaku kansei ni tsutomeru koto<br>
 > Endeavour for a complete personality<br>
@@ -10,7 +10,7 @@ The traditional Shotokan _dojo kun_ is credited to _Gichin Funakoshi_, and is th
 
 English: _Seek perfection of character_.
 
-###### 一、誠の道を守ること
+##### 一、誠の道を守ること
 
 > hitotsu, makoto no michi wo mamoru koto<br>
 > Defend the path of truthfulness and sincerity<br>
@@ -18,7 +18,7 @@ English: _Seek perfection of character_.
 
 English: _Be faithful_.
 
-###### 一、努力の精神を養うこと
+##### 一、努力の精神を養うこと
 
 > hitotsu, doryoku no seishin wo yashinau koto<br>
 > Cultivate the spirit of diligent effort<br>
@@ -26,7 +26,7 @@ English: _Be faithful_.
 
 English: _Endeavour_.
 
-###### 一、礼儀を重んずること
+##### 一、礼儀を重んずること
 
 > hitotsu, reigi wo omonzuru koto<br>
 > Honour the principles of courtesy<br>
@@ -34,7 +34,7 @@ English: _Endeavour_.
 
 English: _Respect others_.
 
-###### 一、血気の勇を戒むること
+##### 一、血気の勇を戒むること
 
 > hitotsu, kekki no yū wo imashimuru koto<br>
 > Be admonished against the impetuousness of courage.<br>

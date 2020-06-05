@@ -34,7 +34,7 @@ _Bassai Dai_ is usually the first _Sentei_ kata to be learned and is the most po
 | 25    | soto-nagashi-uke/<br>shuto-uchikomi &<br>gedan-uke/<br>uchi-uke (manji-uke) | outside flowing block/<br>sword-hand thrusting strike &<br>down block/<br>inside block (swirling block) | ashi-zenkutsu/<br>ashi-zenkutsu &<br> heisoku-dachi/<br>heisoku-dachi | jodan/gedan & <br>gedan/jodan | manji-uke slow speed |
 | 26    | gedan-barai/<br>fumikomi | down block/<br>stomp kick | kiba-dachi | gedan | |
 | 27    | kake-uke | hooking block | kiba-dachi | chudan | slow speed<br>haishu variation |
-| 28    | mikazuki-geri &<br>mae-empi-uchi | crescent kick &<br>front elbow strike | ashi-dachi<br>kiba-dachi | chudan/<br>-- | |
+| 28    | mikazuki-geri &<br>mae-enpi-uchi | crescent kick &<br>front elbow strike | ashi-dachi<br>kiba-dachi | chudan/<br>-- | |
 | 29    | gedan-uke/<br>zenwan-mune-kamae | down block/<br>forearm chest posture | kiba-dachi | gedan<br>chudan | |
 | 30    | gedan-uke/<br>zenwan-mune-kamae | down block/<br>forearm chest posture | kiba-dachi | gedan<br>chudan | |
 | 31    | gedan-uke/<br>zenwan-mune-kamae | down block/<br>forearm chest posture | kiba-dachi | gedan<br>chudan | |

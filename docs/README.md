@@ -67,6 +67,10 @@ Karate notes
     <td>47</td><td>17</td><td>47</td>
   </tr>
   <tr>
+    <td><a href="kata/12-enpi.html">Enpi</a></td>
+    <td>37</td><td>15</td><td>36</td>
+  </tr>
+  <tr>
     <th colspan="4">Funakoshi</th>
   </tr>
   <tr>

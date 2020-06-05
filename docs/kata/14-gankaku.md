@@ -28,8 +28,8 @@ _Gankaku_ has several challenging forward spinning turns, unlike most kata which
 | 19    | ryoken-kakiwake-uke | both fists wedge block | kiba-dachi | chudan |	slow speed |
 | 20    | ryoken-kakiwake-uke | both fists wedge block | hachiji-dachi | gedan | slow speed |
 | 21    | ryoken-ryokoshi-kamae | both fists on both hips posture | hachiji-dachi | -- | |
-| 22    | furi-empi<br>(empi-uchi) | swinging elbow<br>(elbow strike) | hizakutsu | chudan | |
-| 23    | furi-empi<br>(empi-uchi) | swinging elbow<br>(elbow strike) | hizakutsu | chudan | |
+| 22    | furi-enpi<br>(enpi-uchi) | swinging elbow<br>(elbow strike) | hizakutsu | chudan | |
+| 23    | furi-enpi<br>(enpi-uchi) | swinging elbow<br>(elbow strike) | hizakutsu | chudan | |
 | 24    | ryoken-kakiwake-uke | both fists wedge block | kosa-dachi | chudan | slow speed |
 | 25    | uchi-uke-kamae/<br>gedan-kamae (manji-kamae) | inside block/<br>down block posture (swirling posture) | ashi-dachi<br>(tsuru-ashi-dachi) | jodan/<br>gedan | slow speed |
 | 26    | ryoken-koshi-kamae | both fists hip posture | ashi-dachi<br>(tsuru-ashi-dachi) | -- | slow speed |
@@ -44,7 +44,7 @@ _Gankaku_ has several challenging forward spinning turns, unlike most kata which
 | 35    | uraken-yoko-mawashi-uchi/<br>yoko-geri-keage | sideways backfist strike/<br>side snap kick | ashi-dachi | jodan/<br>chudan | |
 | 36    | sokumen-zuki<br>(gyaku-zuki) | reverse punch<br>(side punch) | kiba-dachi | chudan | |
 | 37    | shuto-uke | knife-hand block | ashi-zenkutsu | jodan | shuto-uchi variation |
-| 38    | tate-empi-uchi | vertical elbow strike | ashi-zenkutsu | jodan | |
+| 38    | tate-enpi-uchi | vertical elbow strike | ashi-zenkutsu | jodan | |
 | 39    | ryote-koshi-kamae | both hands hip posture | ashi-zenkutsu | -- | |
 | 40    | ryoken-koshi-kamae | both fists hip posture | ashi-dachi<br>(tsuru-ashi-dachi) | -- | natural speed |
 | 41    | uraken-yoko-mawashi-uchi/<br>yoko-geri-keage | sideways backfist strike/<br>side snap kick | ashi-dachi | jodan/<br>chudan | |
