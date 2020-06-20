@@ -4,7 +4,19 @@ Karate notes
 
 * [Dojo Kun](dojo-kun.md)
 
-## Kata
+## Kata - 形
+
+Shotokan _kata_ all have two _kiai_, except for _Wankan_. They can be divided into groups.
+
+#### Shitei Kata - 指定形
+
+_Shitei_ means "designated", and these kata are the compulsory ones for brown and black belts. All _Heian_ and _Tekki Shodan_ are in the list. In competition, these are the kata that can be asked during qualification rounds. For black belt examination, the knowledge of these kata is required together with one of the _Sentei_ kata of student's choice.
+
+#### Sentei Kata - 選定の形
+
+_Sentei_ means "selection", and these kata are the selected ones to represent the essence of Shotokan karate. These include _Bassai Dai_, _Kanku Dai_, _Jion_ and _Enpi_. The _Sentei_ kata are significantly longer and more challenging than the _Shitei_ kata. The _Sentei_ kata are the source from where _Heian_ kata were created in order to simplify them for new students. Brown belt need to choose one (usually, but not necessarily, _Bassai Dai_, for it forces to master the basic techniques) for their 2nd/1st _kyu_, and the black belt exam. This is normally referred to as _Tokui_ - 特異 kata.
+
+### List
 
 <table>
   <tr>
@@ -79,7 +91,7 @@ Karate notes
   </tr>
   <tr>
     <td><a href="kata/14-gankaku.html">Gankaku</a></td>
-    <td>29</td><td>15</td><td>29</td>
+    <td>42</td><td>28</td><td>42</td>
   </tr>
   <tr>
     <td><a href="kata/15-hangetsu.html">Hangetsu</a></td>
