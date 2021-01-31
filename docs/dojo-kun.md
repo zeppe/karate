@@ -1,6 +1,6 @@
 # Dojo Kun
 
-The traditional Shotokan _dojo kun_ is credited to _Gichin Funakoshi_, and is the following.
+The traditional Shotokan _dojo kun_ is credited to _Funakoshi Gichin_, and is the following.
 
 ##### 一、人格 完成に 努める こと
 
