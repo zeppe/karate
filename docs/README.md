@@ -104,6 +104,10 @@ _Sentei_ means "selection", and these kata are the selected ones to represent th
     <td><a href="kata/16-kanku-sho.html">Kanku Sho</a></td>
     <td>48</td><td>6</td><td>48</td>
   </tr>
+  <tr>
+    <td><a href="kata/17-bassai-sho.html">Bassai Sho</a></td>
+    <td>27</td><td>17</td><td>22</td>
+  </tr>
 </table>
 
 
