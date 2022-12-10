@@ -118,6 +118,9 @@ _Sentei_ means "selection", and these kata are the selected ones to represent th
   </tr>
 </table>
 
+## Glossary
+
+* [Glossary](glossary.md)
 
 ## References
 
